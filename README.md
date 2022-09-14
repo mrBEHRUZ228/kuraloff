@@ -1,0 +1,2 @@
+# kuraloff
+.uz
